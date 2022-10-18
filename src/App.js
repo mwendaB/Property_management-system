@@ -1,6 +1,8 @@
+import { useReducer } from "react"
 import "./style.css"
 
 function App(){
+  const[state,dispatch] = useReducer 
   return(
     
     <div className="calculator-grid"> 
