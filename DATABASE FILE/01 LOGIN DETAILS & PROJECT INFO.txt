@@ -2,7 +2,7 @@
 
 **Developed by Brian Mwenda**
 
-**Recommended PHP Version 5.6.3**
+
 
 
 **Owner's Login** 
